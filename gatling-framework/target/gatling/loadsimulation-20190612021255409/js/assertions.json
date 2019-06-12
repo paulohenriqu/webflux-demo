@@ -1,0 +1,10 @@
+{
+  "simulation": "simulation.LoadSimulation",
+  "simulationId": "loadsimulation",
+  "start": 1560305575409,
+  "description": "",
+  "scenarios": ["Webflux Demo"],
+  "assertions": [
+
+  ]
+}
